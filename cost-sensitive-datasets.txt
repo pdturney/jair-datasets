@@ -1,0 +1,42 @@
+
+
+Appendix A. Five Medical Datasets
+---------------------------------
+  
+A.1 BUPA Liver Disorders 
+https://archive.ics.uci.edu/ml/datasets/Liver+Disorders
+
+A.2 Heart Disease 
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+A.3 Hepatitis Prognosis 
+https://archive.ics.uci.edu/ml/datasets/Hepatitis
+
+A.4 Pima Indians Diabetes 
+https://www.kaggle.com/uciml/pima-indians-diabetes-database#diabetes.csv
+
+A.5 Thyroid Disease     
+https://archive.ics.uci.edu/ml/datasets/Thyroid+Disease
+
+
+C4.5 -- Ross Quinlan
+--------------------
+
+https://en.wikipedia.org/wiki/C4.5_algorithm
+https://github.com/miguelmota/C4.5
+https://github.com/scottjulian/C4.5
+http://www.rulequest.com/Personal/
+
+
+GENESIS -- John J. Grefenstette, PhD
+------------------------------------
+
+http://www.cs.cmu.edu/Groups/AI/areas/genetic/ga/systems/genesis/genesis5.tgz
+http://www.cs.cmu.edu/Groups/AI/areas/genetic/ga/systems/genesis/0.html
+http://www.cs.cmu.edu/Groups/AI/areas/genetic/ga/systems/genesis/
+http://www.genetic-programming.com/c2003genesisgrefenstette.txt
+http://dynamics.org/Altenberg/UH_ICS/EC_REFS/RESOURCES/ec_soft.html
+http://www.genetic-programming.org/gpftpsite.html
+https://www.midas.pitt.edu/index.php?option=com_content&view=article&id=65&Itemid=709
+https://www.researchgate.net/profile/John_Grefenstette
+
