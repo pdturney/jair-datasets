@@ -13,20 +13,20 @@ in the *Journal of Artificial Intelligence Research*
 of semantic relations and compositions, *Journal of Artificial 
 Intelligence Research (JAIR)*, 44, 533-585.
 
-- domain-and-function-dual-space.pdf
-- noun-modifier-compositions.txt
+- domain-and-function-dual-space.pdf (paper)
+- noun-modifier-compositions.txt (dataset)
 
 (2) Turney, P.D. (2008), The latent relation mapping engine: Algorithm 
 and experiments, *Journal of Artificial Intelligence Research (JAIR)*, 
 33, 615-655.
 
-- latent-relation-mapping-engine.pdf
-- systematic-analogies.txt
+- latent-relation-mapping-engine.pdf (paper)
+- systematic-analogies.txt (dataset)
 
 (3) Turney, P.D. (1995), Cost-sensitive classification: Empirical 
 evaluation of a hybrid genetic decision tree induction algorithm, 
 *Journal of Artificial Intelligence Research (JAIR)*, 2, March, 369-409.
 
-- cost-sensitive-classification.pdf
-- cost-sensitive-datasets.txt
+- cost-sensitive-classification.pdf (paper)
+- cost-sensitive-datasets.txt (pointers to datasets and software)
 
