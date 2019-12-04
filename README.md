@@ -28,5 +28,6 @@ evaluation of a hybrid genetic decision tree induction algorithm,
 *Journal of Artificial Intelligence Research (JAIR)*, 2, March, 369-409.
 
 - cost-sensitive-classification.pdf (paper)
+- types-of-cost.pdf (background information on costs)
 - cost-sensitive-datasets.txt (pointers to datasets and software)
 
