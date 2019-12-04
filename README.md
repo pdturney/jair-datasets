@@ -6,7 +6,8 @@ Peter Turney
 December 4, 2019
 
 This repository contains the datasets used in the following three papers
-in the *Journal of Artificial Intelligence Research:*
+in the *Journal of Artificial Intelligence Research* 
+(https://www.jair.org/):
 
 (1) Turney, P.D. (2012), Domain and function: A dual-space model 
 of semantic relations and compositions, Journal of Artificial 
